@@ -16,11 +16,11 @@ const SelectedPlayerList = ({ selectedPlayers, onRemovePlayer , onAddMorePlayers
             />
             <div>
               <h3 className="text-xl font-semibold">{player.name}</h3>
-            <p className="text-gray-600">{player.role}</p></div>
-            </div>
-            <div>
-            </div>
+            <p className="text-gray-600">{player.role}</p>
             <p className="text-gray-800 font-bold">Price: {player.biddingPrice} Coins</p>
+            </div>
+            </div>
+          
             <button
               onClick={() => onRemovePlayer(player)}
               className="mt-2 bg-red-500 text-white py-1 px-4 rounded hover:bg-red-600"

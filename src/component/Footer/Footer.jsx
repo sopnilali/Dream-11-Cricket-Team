@@ -4,9 +4,9 @@ import footerLogo from '../../assets/logo-footer.png'
 
 const Footer = () => {
     return (
-        <div className='bg-black'>
-           <div className='flex justify-center pt-48'>
-            <img className='md:max-w-[120px] max-w-[100px]  object-contain' src={footerLogo} alt="" />
+        <div className='bg-black pb-24'>
+           <div className='flex justify-center pt-48 flex-row  '>
+            <img className='md:max-w-[120px] pb-16  max-w-[100px]  object-contain' src={footerLogo} alt="" />
            </div>
            <footer className=" footer flex justify-evenly flex-col md:flex-row text-white  flex-wrap px-7">
   <nav className='max-w-[20%]'>

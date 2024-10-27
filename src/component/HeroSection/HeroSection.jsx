@@ -16,7 +16,7 @@ const HeroSection = ({ claimCoin }) => {
           Assemble Your Ultimate Dream 11 Cricket Team
           </p>
           <p className='text-3xl font-medium'>Beyond Boundaries Beyond Limits</p>
-          <div className='hover:border  hover:inline-block p-1 hover:rounded-lg'><button onClick={() => claimCoin()} className=" bg-yellow-400 text-black font-semibold py-2 px-4 rounded-lg border-2 border-yellow-500 hover:bg-yellow-500">Claim Free Credit</button></div>
+          <div className='hover:border  hover:inline-block p-1 hover:rounded-lg'><button onClick={() => claimCoin()} className=" bg-yellow-400  text-black font-semibold py-2 px-4 rounded-lg border-2 border-yellow-500 hover:bg-yellow-500">Claim Free Credit</button></div>
         </div>
       </div>
     </div>

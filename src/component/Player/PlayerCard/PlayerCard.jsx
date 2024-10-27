@@ -7,7 +7,7 @@ const PlayerCard = ({ player, isSelected, onToggleSelection }) => {
   
 
     return (
-        <div key={player.playerId} className="border rounded-lg p-4 shadow-lg">
+        <div key={player.playerId} className="border rounded-lg p-4 hover:shadow-lg duration-300">
             <img
                 src={player.image}
                 alt={player.name}
@@ -29,10 +29,10 @@ const PlayerCard = ({ player, isSelected, onToggleSelection }) => {
                 <p className="text-sm text-gray-400">{player.bowlingType}</p>
             </div>
             <div className='flex justify-between items-center'>
-                <p className="text-lg font-bold mt-1">Bidding Price: ${player.biddingPrice}</p>
+                <p className="text-lg font-bold mt-1">Bid Price: ${player.biddingPrice}</p>
                 <button
                     onClick={() => onToggleSelection(player)}
-                    className={`mt-2 py-1 px-4 rounded ${isSelected ? 'bg-gray-400 ' : 'bg-blue-500 text-white hover:bg-blue-600'
+                    className={`mt-2 py-1 px-4 rounded ${isSelected ? 'bg-gray-400 ' : 'bg-yellow-500 text-white hover:bg-yellow-600'
                         }`}
                 >
                     {isSelected ? 'Player Selected' : 'Choose Player'}
