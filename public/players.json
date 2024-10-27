@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co/dPtS5XF/virat-kohli.webp",
+      "role": "Batsman",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Right-Arm Medium",
+      "biddingPrice": 125
+    },
+    {
+      "playerId": 2,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "image": "https://i.ibb.co/Y0TphLM/Steve-Smith.jpg",
+      "role": "Batsman",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Legbreak",
+      "biddingPrice": 145
+    },
+    {
+      "playerId": 3,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co/5LHsP5S/Kane-Williamson.webp",
+      "role": "Batsman",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Right-Arm Offbreak",
+      "biddingPrice": 165
+    },
+    {
+      "playerId": 4,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co/NYP7cMz/Ben-Stokes-updated.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-Hand Bat",
+      "bowlingType": "Right-Arm Fast Medium",
+      "biddingPrice": 100
+    },
+    {
+      "playerId": 5,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co/d58MWzQ/Babar-Azam.jpg",
+      "role": "Batsman",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Right-Arm Offbreak",
+      "biddingPrice": 120
+    },
+    {
+      "playerId": 6,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co/sKXqZVk/rashid-khan.jpg",
+      "role": "Bowler",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Legbreak Googly",
+      "biddingPrice": 50
+    },
+    {
+      "playerId": 7,
+      "name": "Taskin Ahmed",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co/VW5J8hb/taskin-ahmed.webp",
+      "role": "Bowler",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Right-Arm Fast",
+      "biddingPrice": 200
+    },
+    {
+      "playerId": 8,
+      "name": "Robel Hossain",
+      "country": "Bangladesh",
+      "image": "https://i.imghippo.com/files/jBL9984rNc.jpg",
+      "role": "Bowler",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Right-Arm Fast",
+      "biddingPrice": 100
+    },
+    {
+      "playerId": 9,
+      "name": "Jos Buttler",
+      "country": "England",
+      "image": "https://i.imghippo.com/files/rxB9632kHE.jpg",
+      "role": "Wicketkeeper Batsman",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "N/A",
+      "biddingPrice": 30
+    },
+    {
+      "playerId": 10,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://i.imghippo.com/files/eTeF7443JY.png",
+      "role": "Wicketkeeper Batsman",
+      "battingType": "Left-Hand Bat",
+      "bowlingType": "N/A",
+      "biddingPrice": 50
+    },
+    {
+      "playerId": 11,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.imghippo.com/files/EIps3278MIU.jpg",
+      "role": "Bowler",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Left-Arm Fast Medium",
+      "biddingPrice": 135
+    },
+    {
+      "playerId": 12,
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "image": "https://i.imghippo.com/files/FszY2256PcQ.webp",
+      "role": "Bowler",
+      "battingType": "Left-Hand Bat",
+      "bowlingType": "Left-Arm Fast",
+      "biddingPrice": 145
+    },
+    {
+      "playerId": 13,
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "image": "https://i.imghippo.com/files/GEH6779LNc.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Right-Arm Offbreak",
+      "biddingPrice": 140
+    },
+    {
+      "playerId": 14,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://i.imghippo.com/files/Hf2151fF.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-Hand Bat",
+      "bowlingType": "Right-Arm Fast",
+      "biddingPrice": 150
+    },
+    {
+      "playerId": 15,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.imghippo.com/files/EPiB9358xpc.jpeg",
+      "role": "All-Rounder",
+      "battingType": "Left-Hand Bat",
+      "bowlingType": "Slow Left-Arm Orthodox",
+      "biddingPrice": 125
+    }
+  ]
+  
