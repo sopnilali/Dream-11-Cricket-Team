@@ -9,7 +9,7 @@ const Footer = () => {
             <img className='md:max-w-[120px] pb-16  max-w-[100px]  object-contain' src={footerLogo} alt="" />
            </div>
            <footer className=" footer flex justify-evenly flex-col md:flex-row text-white  flex-wrap px-7">
-  <nav className='max-w-[20%]'>
+  <nav className='max-w-full'>
     <h6 className="footer-title">Services</h6>
     <p className=''>We are a passionate team dedicated to providing the best services to our customers.</p>
   </nav>
